@@ -81,7 +81,7 @@ Mobile View:
 ![Deliverable 4 - Image 6](https://user-images.githubusercontent.com/92111396/150606229-7a22972e-ec2e-4952-98fa-a77fb97f53ef.PNG)
 
 
-If issues arose with regards to mobile compatibility for a specific device (iPhone vs iPad), the chart sizes and positions could be amened by altering the "<div class="col-md-**X**">" code on the index.html file to allow for a cleaner look.
+If issues arose with regards to mobile compatibility for a specific device (iPhone vs iPad), the chart sizes and positions could be amened by altering the "div class="col-md-**X**"" code on the index.html file to allow for a cleaner look.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
