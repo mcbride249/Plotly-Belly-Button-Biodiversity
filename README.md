@@ -10,11 +10,13 @@ The purpose of this project was to create data visualizations for the web in ord
 
 ## **Resources**
 
--Data Source: ufo_starterCode.js, data.js
+-Data Source: samples.json
 
--Images: nasa.jpg
+-Images: belly_bacteria.jpg
 
--Software: Python 3.7.10, Visual Studio Code, 1.38.1, 
+-Software: Python 3.7.10, Visual Studio Code, 1.38.1,
+
+-Resources: plotly.com, htmlcolorcodes.com
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
