@@ -87,4 +87,4 @@ If issues arose with regards to mobile compatibility for a specific device (iPho
 
 ## **Summary**
 
-
+The dashboard displayed all the charts correctly and the charts altered and displayed the correct data based on the ID selected. When the dashboard is first opened, ID 940s data is displayed.
