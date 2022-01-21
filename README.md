@@ -83,7 +83,7 @@ Mobile View:
 
 
 If issues arose with regards to mobile compatability for a specific device (iphone vs ipad), the chart sizes and positions could be amened by altering the 
-<div class="col-md-**X**"> cod eon the index.html file to allow for a cleaner look. 
+"<div class="col-md-**X**">" code on the index.html file to allow for a cleaner look. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
