@@ -34,17 +34,26 @@ The purpose of this project was to assist Roza, a biological researcher, in comp
 
 Deliverable 1: Create A Horizontal Bar Chart
 
+![Deliverable 1 - Image 1](https://user-images.githubusercontent.com/92111396/150603846-b942b745-e137-4e4f-ac36-c1ce4a317113.PNG)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Deliverable 2: Create A Bubble Chart
+
+![Deliverable 2 - Image 1](https://user-images.githubusercontent.com/92111396/150603853-a8159cae-650b-43b5-ac76-80b4aa0c47d6.PNG)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Deliverable 3: Create A Gauge Chart
 
+![Deliverable 3 - Image 1](https://user-images.githubusercontent.com/92111396/150603864-ad0a311c-2738-439f-befe-eff3b9dfd4bf.PNG)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Deliverable 4: Customize The Dashboard
+
+![Deliverable 4 - Image 1](https://user-images.githubusercontent.com/92111396/150603877-42783d5a-fbe0-4d2c-8f06-01d9524d2674.PNG)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
