@@ -1,8 +1,10 @@
 # **Plotly-Belly-Button-Biodiversity**
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## **Project Overview**
 
-The purpose of this analysis was to JavaScript to build a dynamic web page that could accept user inouts and visually adjust accordingly to reflect that interaction. This was done by inserting our JavaScript code into an HTML page. CSS, Bootstrap and Chrome DevTools were used to cutomize the page and test the code throughout. The project was centrered on inserting a table populated with data that we wanted to display into the web page, and then adding filters to the table which would allow users to refine their search. A header, displayed along with an imported image, a summary, and an article were also included on the web page. The end result was to have a web page that presented the data, that was visually appealing, and that was interactive.  
+The purpose of this project was to create data visualizations for the web in order to develop and strengthen the visualization and communication skills necessary to present analytical conclusions and findings to an audience. JavaScript was used in order to create data visualizations, as other scripting languages, such as python, would require audiences to have similar programmes installed on their own computer, and tools such as Pandas would be difficult to present data effectively. This project used Plotly, a JavaScript visualization library that offers audience interactivity, to present the data and help the audience understand the data and draw the same conclusions. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -22,8 +24,8 @@ The purpose of this analysis was to JavaScript to build a dynamic web page that 
 
 ## **Purpose**
 
+The purpose of this project was to assist Roza, a biological researcher, in completing her dashboard, which would display the bacterial data of each volunteer for the purposes of potentially harnessing this bacterium for the manufacturing of synthetic beef. This project involved using our knowledge of JavaScript, Plotly, D3.js to create a bar, bubble, and gauge chart of the data and then uploading this data to data to dashboard web site for viewing.
   
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## **Results**
